@@ -1,0 +1,17 @@
+appdirs==1.4.3
+beautifulsoup4==4.6.0
+bs4==0.0.1
+Django==1.11.1
+html5lib==0.999999999
+image==1.5.5
+oauthlib==2.0.2
+olefile==0.44
+packaging==16.8
+Pillow==4.1.1
+pyparsing==2.2.0
+pytz==2017.2
+requests==2.14.2
+requests-oauthlib==0.8.0
+six==1.10.0
+tweepy==3.5.0
+webencodings==0.5.1

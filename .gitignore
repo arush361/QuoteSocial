@@ -1,0 +1,10 @@
+# for compiled python files
+*.pyc
+
+# config files
+*/config.py
+
+# virtual env
+env/
+
+*.csv
